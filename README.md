@@ -15,11 +15,12 @@ This project demonstrates how to:
 The notebook DBLP_API.ipynb performs the full workflow:
 
 1️⃣ Data Collection
-- Requests publication data using the DBLP RESTful API
+- Requests publication data using the DBLP API
 - Handles pagination to retrieve all results
 - Parses JSON into structured pandas DataFrames
 
 2️⃣ Data Exploration & Visualizations
+
 The project includes several visual analyses:
 
 📊 Publication Analytics
@@ -35,7 +36,7 @@ The project includes several visual analyses:
 - Most frequent collaborators (Network Graph + Bar Plot)
 
 These visualizations help understand:
--author productivity trends
+- author productivity trends
 - venue preferences
 - collaboration patterns
 - evolution of work over time
@@ -46,10 +47,10 @@ These visualizations help understand:
 
 ```
 DBLP-API-Visualizations/
-── notebook/
+  ├── notebook/
   │     └── DBLP_API.ipynb
   ├── results/
-  │     └── plots/        # exported PNG visualizations
+  │     └── plots/        
   ├── README.md
   └── requirements.txt
 ```
