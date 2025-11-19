@@ -11,7 +11,8 @@ This project demonstrates how to:
 
 ---
 
-🚀 Project Overview
+🚀 Project Overview 
+
 The notebook DBLP_API.ipynb performs the full workflow:
 
 1️⃣ Data Collection
@@ -36,10 +37,10 @@ The project includes several visual analyses:
 - Most frequent collaborators (Network Graph + Bar Plot)
 
 These visualizations help understand:
-- author productivity trends
-- venue preferences
-- collaboration patterns
-- evolution of work over time
+- Author productivity trends
+- Venue preferences
+- Collaboration patterns
+- Evolution of work over time
 
 ---
 
